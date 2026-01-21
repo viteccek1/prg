@@ -1,0 +1,15 @@
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\bin\Debug\net10.0\Cvičení_OOPBasics.exe
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\bin\Debug\net10.0\Cvičení_OOPBasics.deps.json
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\bin\Debug\net10.0\Cvičení_OOPBasics.runtimeconfig.json
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\bin\Debug\net10.0\Cvičení_OOPBasics.dll
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\bin\Debug\net10.0\Cvičení_OOPBasics.pdb
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.AssemblyInfoInputs.cache
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.AssemblyInfo.cs
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.sourcelink.json
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.dll
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\refint\Cvičení_OOPBasics.dll
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.pdb
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\Cvičení_OOPBasics.genruntimeconfig.cache
+C:\Users\vhole\RiderProjects\Cvičení_OOPBasics\obj\Debug\net10.0\ref\Cvičení_OOPBasics.dll
