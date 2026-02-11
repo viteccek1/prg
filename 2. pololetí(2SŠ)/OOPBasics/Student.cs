@@ -11,6 +11,6 @@ class Student
 
     public void Greet()
     {
-        Console.WriteLine("Hello teacher! My name is: " + name);
+        Console.WriteLine("My name is: " + name + "And my age is: " + age);
     }
 }

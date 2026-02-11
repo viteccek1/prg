@@ -13,3 +13,18 @@ C:\Users\vhole\RiderProjects\OOPBasics2\obj\Debug\net10.0\refint\OOPBasics2.dll
 C:\Users\vhole\RiderProjects\OOPBasics2\obj\Debug\net10.0\OOPBasics2.pdb
 C:\Users\vhole\RiderProjects\OOPBasics2\obj\Debug\net10.0\OOPBasics2.genruntimeconfig.cache
 C:\Users\vhole\RiderProjects\OOPBasics2\obj\Debug\net10.0\ref\OOPBasics2.dll
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\bin\Debug\net10.0\OOPBasics2.exe
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\bin\Debug\net10.0\OOPBasics2.deps.json
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\bin\Debug\net10.0\OOPBasics2.runtimeconfig.json
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\bin\Debug\net10.0\OOPBasics2.dll
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\bin\Debug\net10.0\OOPBasics2.pdb
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.AssemblyInfoInputs.cache
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.AssemblyInfo.cs
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.csproj.CoreCompileInputs.cache
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.sourcelink.json
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.dll
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\refint\OOPBasics2.dll
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.pdb
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\OOPBasics2.genruntimeconfig.cache
+C:\Users\vhole\RiderProjects\2. pololetí(2SŠ)\OOPBasics2\obj\Debug\net10.0\ref\OOPBasics2.dll
