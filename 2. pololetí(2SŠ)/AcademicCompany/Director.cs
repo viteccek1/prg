@@ -21,5 +21,3 @@ public class Director : AcademicCompany.Manager.Manager
         Console.WriteLine($"Výsledný plat (Bonus + Akcie): {CalculateFinalSalary()} Kč");
     }
 }
-
-
